@@ -1,4 +1,4 @@
-# [your app name here]
+# [ORBIT]
 
 CodePath WEB103 Final Project
 
@@ -10,39 +10,59 @@ Designed and developed by: Annie Gomez, Inzwi Zunga, Yu-Wei Tseng, My Pham, Mana
 
 ### Description and Purpose
 
-[text goes here]
+Our application, Orbit, is intended to provide the DFW Metroplex a platform where users can share information and details about in-person and online events happening in the area. 
+
+Orbit intends to provide a localized platform where residents of the DFW metroplex and surrounding areas can easily find local events and gatherings, without needing to ask or know anyone in advance.
 
 ### Inspiration
 
-[text goes here]
+We were inspired by the Meetup application, since we enjoyed the diversity in events and usability it brings to users. We specifically focused on the DFW metroplex because all of our group members are based there.
 
 ## Tech Stack
 
-Frontend:
+Frontend: React
 
-Backend:
+Backend: Render PostgreSQL database, Express
 
 ## Features
 
-### [Name of Feature 1]
+### Creating and Hosting
 
-[short description goes here]
-
-[gif goes here]
-
-### [Name of Feature 2]
-
-[short description goes here]
+User are able to upload new events to the platform to share with others and to find interested attendees. This includes the ability to create, edit, view, and delete their own posts. The information they are able to upload includes a title, an address, and image, and a description of the event.
 
 [gif goes here]
 
-### [Name of Feature 3]
+### Event Gallery
 
-[short description goes here]
+Users are able to see a list of all local events by city, category or possibly time (such as day or week) in a grid format.
+
+[gif goes here]
+
+### Search and Filter Function
+
+Users are able to look for events based on title, city, and category of events.
 
 [gif goes here]
 
 ### [ADDITIONAL FEATURES GO HERE - ADD ALL FEATURES HERE IN THE FORMAT ABOVE; you will check these off and add gifs as you complete them]
+
+### Collections and Saved Events
+
+Users are able to save events they are interested in into collections or on their own profile.
+
+[gif goes here]
+
+### RSVP Events
+
+Users are able to indicate if they are attending an event on the event post.
+
+[gif goes here]
+
+### Comments and Likes
+
+Users are able to like event posts and comment under them to receive more information.
+
+[gif goes here]
 
 ## Installation Instructions
 
